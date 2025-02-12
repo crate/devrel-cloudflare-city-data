@@ -4,3 +4,5 @@ node_modules/
 *.swp
 *.bak
 .DS_Store
+dist/
+.wrangler/
