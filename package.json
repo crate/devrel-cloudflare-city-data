@@ -1,0 +1,19 @@
+{
+  "name": "devrel-cloudflare-city-data",
+  "version": "0.0.1",
+  "description": "Example code that connects to CrateDB from Cloudflare Workers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudflare",
+    "cratedb",
+    "serverless"
+  ],
+  "author": "CrateDB Developer Relations",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.108.1"
+  }
+}
